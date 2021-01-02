@@ -1,0 +1,16 @@
+{
+    "name": "gallery art",
+    "short_name": "gallery-art",
+    "description": "Gallery Web App",
+    "icons": [
+      {
+        "src": "/../images/splash-screen.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/",
+    "display": "fullscreen",
+    "theme_color": "#ffffff",
+    "background_color": "#d2f3fc"
+  }

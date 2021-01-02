@@ -1,5 +1,9 @@
 # dependencies
 /node_modules
+/src/public/arts/uploads
 
 # misc
 .env
+
+#others
+logo.cdr
